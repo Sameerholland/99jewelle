@@ -1,60 +1,14 @@
 {
-   "builds": [
-     {
-       "src": "index.js",
-       "use": "@vercel/node"
-     },
-     {
-       "src": "build/**",
-       "use": "@vercel/static"
-     }
-   ],
-
-
-
-   "routes":[
+  "builds": [
     {
-      "src":"/user",
-      "dest":"index.js"
+      "src": "index.js",
+      "use": "@vercel/node"
     },
     {
-      "src":"/user/(.*)",
-      "dest":"index.js"
-    },
-    {
-      "src":"/product",
-      "dest":"index.js"
-    },
-    {
-      "src":"/product/(.*)",
-      "dest":"index.js"
+      "src": "build/**",
+      "use": "@vercel/static"
     }
-    ,
-    {
-      "src":"/cart",
-      "dest":"index.js"
-    },
-    {
-      "src":"/cart/(.*)",
-      "dest":"index.js"
-    },
-    {
-      "src":"/address",
-      "dest":"index.js"
-    },
-    {
-      "src":"/address/(.*)",
-      "dest":"index.js"
-    },
-    {
-      "src":"/order",
-      "dest":"index.js"
-    },
-    {
-      "src":"/order/(.*)",
-      "dest":"index.js"
-    }
-   ]
- 
-   
- }
+  ],
+
+  "rewrites": [{ "source": "/(.*)", "destination": "index.js" }]
+}
