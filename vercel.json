@@ -1,0 +1,51 @@
+     }
+   ],
+
+
+
+   "routes":[
+    {
+      "src":"/user",
+      "dest":"index.js"
+    },
+    {
+      "src":"/user/(.*)",
+      "dest":"index.js"
+    },
+    {
+      "src":"/product",
+      "dest":"index.js"
+    },
+    {
+      "src":"/product/(.*)",
+      "dest":"index.js"
+    }
+    ,
+    {
+      "src":"/cart",
+      "dest":"index.js"
+    },
+    {
+      "src":"/cart/(.*)",
+      "dest":"index.js"
+    },
+    {
+      "src":"/address",
+      "dest":"index.js"
+    },
+    {
+      "src":"/address/(.*)",
+      "dest":"index.js"
+    },
+    {
+      "src":"/order",
+      "dest":"index.js"
+    },
+    {
+      "src":"/order/(.*)",
+      "dest":"index.js"
+    }
+   ]
+ 
+   
+ }
