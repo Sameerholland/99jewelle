@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5bb52ad.css",
+    "main.js": "/static/js/main.2185cc97.js",
+    "static/media/trending1.png": "/static/media/trending1.a0942b9f7223929b5c3b.png",
+    "static/media/model1.png": "/static/media/model1.ba66087113b2ab3b25f7.png",
+    "static/media/product1.png": "/static/media/product1.edd58892bacc449e0e4a.png",
+    "static/media/trending2.png": "/static/media/trending2.76b68ad91d9111b3aeb5.png",
+    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/categroy1.png": "/static/media/categroy1.425d87af2a5498892631.png",
+    "static/media/catergory6.png": "/static/media/catergory6.f70b695de290f606721e.png",
+    "static/media/categroy2.png": "/static/media/categroy2.768117e5606265444ddf.png",
+    "static/media/categroy7.png": "/static/media/categroy7.a93ad6f58232df4256d1.png",
+    "static/media/categroy4.png": "/static/media/categroy4.3520c49e3b796a2b7969.png",
+    "static/media/categroy8.png": "/static/media/categroy8.2837115e4038a5361617.png",
+    "static/media/categroy3.png": "/static/media/categroy3.77ed03961ed1bc88f969.png",
+    "static/media/product2.png": "/static/media/product2.bb8034d0bf25aa321677.png",
+    "static/media/product4.png": "/static/media/product4.c978fcf8729dfb5b5658.png",
+    "static/media/categroy5.png": "/static/media/categroy5.8f39bea0cda27afd0bed.png",
+    "static/media/product3.png": "/static/media/product3.4d612f81b44119584f74.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/imglogo.jpg": "/static/media/imglogo.87de70dc69bdca131f15.jpg",
+    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/index.html",
+    "main.e5bb52ad.css.map": "/static/css/main.e5bb52ad.css.map",
+    "main.2185cc97.js.map": "/static/js/main.2185cc97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5bb52ad.css",
+    "static/js/main.2185cc97.js"
+  ]
+}
